@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "dtc-node-sdk": "https://github.com/datatechcorp/dtc-node-sdk.git"
+  }
+}
